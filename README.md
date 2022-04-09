@@ -1,2 +1,2 @@
-# git_tuto
-git tutorial
+# git_tutorial
+git tutorial for myself
